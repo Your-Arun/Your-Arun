@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Your-Arun
-- 👀 I’m interested in Web Designer
+- 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning ...
 
 <!---
