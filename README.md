@@ -29,26 +29,18 @@ A **5-module logistics platform** built end-to-end, solo — from database desig
 
 ### 💼 Other Projects
 
-<p align="left">
-  <a href="https://github.com/Your-Arun/Billing_App" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Your-Arun&repo=Billing_App&hide_border=true" />
-  </a>
-  <a href="https://github.com/Your-Arun/Settlement_Appp" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Your-Arun&repo=Settlement_Appp&hide_border=true" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/Your-Arun/TankLorry_App" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Your-Arun&repo=TankLorry_App&hide_border=true" />
-  </a>
-  <a href="https://github.com/Your-Arun/simpleportfolio" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Your-Arun&repo=simpleportfolio&hide_border=true" />
-  </a>
-</p>
+**[Billing_App](https://github.com/Your-Arun/Billing_App)**
+React Native electricity billing app with JWT authentication and PDF bill generation.
 
-> 💡 Tip: add a one-line description to each repo on GitHub (via the repo's ⚙️ settings) — it shows up automatically on these cards and makes them far more useful to recruiters skimming your profile.
+**[Settlement_Appp](https://github.com/Your-Arun/Settlement_Appp)**
+Real-time complaint / settlement management system built with Socket.io.
+
+**[TankLorry_App](https://github.com/Your-Arun/TankLorry_App)**
+*(add a one-line description here)*
 
 ---
+
+### 🧰 Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
@@ -74,14 +66,11 @@ A **5-module logistics platform** built end-to-end, solo — from database desig
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Your-Arun&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Your-Arun&layout=compact&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=Your-Arun&hide_border=true" alt="streak stats"/>
-</p>
+| Metric | Value |
+|---|---|
+| Public Repos | ![repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Your-Arun&label=&query=public_repos&color=2EA043) |
+| Followers | ![followers](https://img.shields.io/github/followers/Your-Arun?label=&color=2EA043) |
+| Profile Views | ![views](https://komarev.com/ghpvc/?username=Your-Arun&label=&color=2EA043&style=flat) |
 
 ---
 
