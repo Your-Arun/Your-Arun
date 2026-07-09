@@ -8,10 +8,10 @@
 ###
 
 <p align="left">
-🚀 System &amp; Automation Technician @ Sanghi Brothers, Jodhpur<br>
-🛠️ ~1.5 years building production apps with React, React Native, Node.js, Express &amp; MongoDB<br>
-🤖 AI-augmented developer — I use AI tools deliberately to ship faster without cutting corners<br>
-🎯 Currently: open to Full-Stack / MERN roles — remote, relocation, or immediate joining<br>
+🚀 <b>~1.5 years</b> building production-grade full-stack apps<br>
+🛠️ <b>React · React Native · Node.js · Express · MongoDB</b><br>
+🤖 <b>AI-augmented developer</b> — I use AI tools deliberately to ship faster without cutting corners<br>
+🎯 <b>Currently open to:</b> Full-Stack / MERN roles — remote, relocation, or immediate joining<br>
 📍 Based in Jodhpur, Rajasthan, India
 </p>
 
@@ -19,12 +19,11 @@
 
 ### 🔭 Featured Project — BranchFlow Pro
 
-A 5-module logistics platform built end-to-end at Sanghi Brothers:
+A **5-module logistics platform** built end-to-end, solo — from database design to deployment:
 
 - **Staff Web App**, **Admin Panel**, **Mobile App (Android APK via EAS Build)**, and **REST API**
-- Real-time dispatch tracking using **Socket.io**
-- Role-based access control across all modules
-- Built solo, from database design to deployment
+- **Real-time dispatch tracking** using Socket.io
+- **Role-based access control** across all modules
 
 ---
 
