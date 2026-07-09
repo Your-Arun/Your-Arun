@@ -27,12 +27,31 @@ A **5-module logistics platform** built end-to-end, solo — from database desig
 
 ---
 
-### 🧰 Tech Stack
+### 💼 Other Projects
+
+<p align="left">
+  <a href="https://github.com/Your-Arun/Billing_App" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Your-Arun&repo=Billing_App&hide_border=true" />
+  </a>
+  <a href="https://github.com/Your-Arun/Settlement_Appp" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Your-Arun&repo=Settlement_Appp&hide_border=true" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/Your-Arun/TankLorry_App" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Your-Arun&repo=TankLorry_App&hide_border=true" />
+  </a>
+  <a href="https://github.com/Your-Arun/simpleportfolio" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Your-Arun&repo=simpleportfolio&hide_border=true" />
+  </a>
+</p>
+
+> 💡 Tip: add a one-line description to each repo on GitHub (via the repo's ⚙️ settings) — it shows up automatically on these cards and makes them far more useful to recruiters skimming your profile.
+
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
@@ -61,7 +80,7 @@ A **5-module logistics platform** built end-to-end, solo — from database desig
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Your-Arun&hide_border=true" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Your-Arun&hide_border=true" alt="streak stats"/>
 </p>
 
 ---
