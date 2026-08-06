@@ -45,7 +45,7 @@
 
 A **5-module logistics platform** built end-to-end, solo — from database design to deployment:
 
-- **Staff Web App**, **Admin Panel**, **Mobile App (Android APK via EAS Build)**, and **REST API**
+- **Staff Web App**, **Admin Panel**, **Mobile App (Android APK via EAS Build)**, and **REST API"
 - **Real-time dispatch tracking** using Socket.io across all connected clients
 - **Role-based access control** enforced consistently across every module
 - Shipped as a working Android APK via **EAS Build**, not just a local demo
@@ -54,13 +54,19 @@ A **5-module logistics platform** built end-to-end, solo — from database desig
 
 ### 💼 Other Projects
 
-**[Billing_App](https://github.com/Your-Arun/Billing_App)**
+**[Keepify](https://github.com/Your-Arun/Keepify)**  
+Secure hybrid cloud storage & secret vault — Next.js web app + React Native (Expo) mobile app, Backblaze B2 S3 for storage and MongoDB Atlas for data; includes a PIN-protected secret vault and in-app media/document viewer.
+
+**[Notebook — Keep Ur Notes](https://github.com/Your-Arun/Notebook---Keep-Your-Notes)**  
+A modern, secure, and fully responsive personal note-taking web app built with Next.js, React, Tailwind CSS and MongoDB. Live demo: https://ur-notebook.vercel.app
+
+**[Billing_App](https://github.com/Your-Arun/Billing_App)**  
 React Native electricity billing app with JWT authentication and PDF bill generation.
 
-**[Settlement_Appp](https://github.com/Your-Arun/Settlement_Appp)**
+**[Settlement_Appp](https://github.com/Your-Arun/Settlement_Appp)**  
 Real-time complaint / settlement management system built with Socket.io.
 
-**[TankLorry_App](https://github.com/Your-Arun/TankLorry_App)**
+**[TankLorry_App](https://github.com/Your-Arun/TankLorry_App)**  
 App for managing tank lorry (fuel) indent booking and decantation tracking — lets staff check remaining stock and book the next day's indent accordingly.
 
 ---
